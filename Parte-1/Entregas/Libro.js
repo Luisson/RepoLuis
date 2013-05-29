@@ -83,6 +83,7 @@ Libro.prototype.precio_rebajado = function (descuento) {
 }
 
 // Variables y metodos de clase
+// compartidos por todos los objetos Libro 
 Libro.catalogo = [];
 
 Libro.listar_catalogo= function () {
