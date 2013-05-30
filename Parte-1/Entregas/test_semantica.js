@@ -1,9 +1,9 @@
 // Módulo para utilizar en test
 var assert = require('assert');
 // Módulos necesarios
-var c_l = require('/home/luisson/RepoLuis/Parte-1/Ejercicios/contar_letras');
-var c_p = require('/home/luisson/RepoLuis/Parte-1/Ejercicios/contar_palabras');
-var c_f = require('/home/luisson/RepoLuis/Parte-1/Ejercicios/contar_frases');
+var c_l = require('/home/luisson/RepoLuis/Parte-1/Entregas/contar_letras');
+var c_p = require('/home/luisson/RepoLuis/Parte-1/Entregas/contar_palabras');
+var c_f = require('/home/luisson/RepoLuis/Parte-1/Entregas/contar_frases');
 
 // TEST 1 CONTAR LETRAS
 
